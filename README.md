@@ -1,0 +1,1 @@
+# netcore_Catogery_curd
